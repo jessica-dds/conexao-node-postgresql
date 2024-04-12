@@ -4,7 +4,7 @@
   "description": "Este API foi desenvolvido durante o curso Full Stack da Cubos Academy.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index2.js"
   },
   "keywords": [],
   "author": "",
