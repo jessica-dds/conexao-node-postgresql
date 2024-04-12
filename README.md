@@ -1,1 +1,1 @@
-Este API foi desenvolvido durante o curso Full Stack da Cubos Academy.
+Este API foi desenvolvido durante o curso Full Stack da Cubos Academy!
