@@ -1,0 +1,19 @@
+{
+  "name": "conexao-node-postgresql",
+  "version": "1.0.0",
+  "description": "Este API foi desenvolvido durante o curso Full Stack da Cubos Academy.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}

@@ -1,1 +1,1 @@
-# conexao-node-postgresql
+Este API foi desenvolvido durante o curso Full Stack da Cubos Academy.
