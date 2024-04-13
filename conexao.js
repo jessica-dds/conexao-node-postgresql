@@ -9,4 +9,4 @@ const pool = new Pool({
     database: 'aula_conexao_node_pg'
 });
 
-module.exports = pool;
+module.exports = pool
